@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+TrinhViewTool::Renderer.copyright 'Jimmy Trinh', 'All rights reserved'
+```
 
 ## Development
 
